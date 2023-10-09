@@ -1,0 +1,1 @@
+alert("Hey! Thanks for coming to Oluwadara's Hair  Clinic. Hope you enjoy our services!")
